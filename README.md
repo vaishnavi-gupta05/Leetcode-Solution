@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0917-reverse-only-letters](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
