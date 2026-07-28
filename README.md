@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Math
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
