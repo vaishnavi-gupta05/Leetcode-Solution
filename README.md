@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
@@ -60,4 +62,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
