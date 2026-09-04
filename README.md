@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -82,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
