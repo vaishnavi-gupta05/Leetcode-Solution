@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0204-count-primes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Math
@@ -35,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/vaishnavi-gupta05/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
